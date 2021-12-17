@@ -1,0 +1,4 @@
+    1         IphoneXSMax          APPLE   9200000     3
+    2          SonyXperia           SONY   7300000     3
+    3          VivoX9Plus           VIVO   8650000     3
+    6           Nokia1280          NOKIA   1000000     5
